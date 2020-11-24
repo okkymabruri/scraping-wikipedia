@@ -1,2 +1,1 @@
 # scraping-wikipedia
-scraping-wikipedia
